@@ -1,6 +1,9 @@
 # Smart Health Agent 
 A comprehensive application that uses multi agent workflow to get real-time health metrics, weather, and Retrieval Augmented Generation (RAG) that can process multimodal documents to provide personalized health recommendations, powered by Gemma 3 on Ollama and LangGraph.
 
+
+![Smart Health Agent Architecture](architecture.png)
+
 ## Overview
 
 This repository demonstrates a complete workflow for health data analysis and personalized recommendations:
